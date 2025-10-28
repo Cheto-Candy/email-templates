@@ -49,14 +49,15 @@ Social media icons (Facebook, Instagram, X, LinkedIn) centered, using logo-only 
 Background color: #0F172A with white icons.
 
 💌 3. Template Variations
-Email	Purpose	Layout Type	Key CTA
-Email 1 – Quick Check-In	Gently follow up after website visit	Hero Image + Text Card	Book 15-min Call →
-Email 2 – Compatibility Follow-Up	Address hesitations (price / fit)	Alternating Image/Text	Run Free Compatibility Check →
-Email 3 – Value + Case Study	Show social proof & results	Case Study Layout	Read Short Case →
-Email 4 – Limited Offer	Incentivize trial / bulk order	Hero Image + Offer Card	Get 15% Off →
-Email 5 – Final Nudge	Final follow-up / close loop	Clean Centered Card	Book or Reply “Yes” →
-Product Promo Body	Showcase hardware selection	3-in-a-row Product Grid	View Details → for each item
-🖼️ 4. Visual Composition
+| Email No. | Template Name                                               | Description                                                                               |                      Preview                      |
+| :-------: | :---------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :-----------------------------------------------: |
+|   **1**   | **Interested Email 1 – Quick Check-In**                     | Follow-up email featuring a hero image, short intro text, and one main CTA.               | ![Email 1](https://i.ibb.co/YFgH9FYn/email-1.png) |
+|   **2**   | **Interested Email 2 – Compatibility or Pricing Follow-Up** | Alternating image and text design addressing buyer questions about compatibility or cost. | ![Email 2](https://i.ibb.co/R4PycQXc/email-2.png) |
+|   **3**   | **Interested Email 3 – Value & Case Study**                 | Case study format highlighting a successful client example and performance improvements.  | ![Email 3](https://i.ibb.co/sv4Pxn91/email-3.png) |
+|   **4**   | **Interested Email 4 – Targeted Incentive**                 | Promotional design offering limited-time discounts with a bold CTA button.                | ![Email 4](https://i.ibb.co/84GrkQkR/email-4.png) |
+|   **5**   | **Interested Email 5 – Final Nudge / Ease-Out**             | Minimalist closing email to re-engage inactive leads or gracefully close the sequence.    | ![Email 5](https://i.ibb.co/tTtDB7h7/email-5.png) |
+|   **6**   | **Product Grid Layout – 3 Products in a Row**               | Display of three featured hardware products with “View Details” CTAs.                     | ![Email 6](https://i.ibb.co/1GFYQFt5/email-6.png) |
+|   **7**   | **Alternate Product Display – Image + Text Mix**            | Alternating layout combining product photos and key technical details.                    | ![Email 7](https://i.ibb.co/WvHCDdPR/email-7.png) |
 
 Each email balances visual hierarchy and technical clarity:
 
